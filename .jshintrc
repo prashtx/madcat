@@ -1,0 +1,21 @@
+{
+  "curly": true,
+  "eqeqeq":true,
+  "forin":true,
+  "freeze":true,
+  "immed":true,
+  "indent":2,
+  "latedef":true,
+  "newcap":true,
+  "nonbsp":true,
+  "nonew":true,
+  "plusplus":true,
+  "quotmark":"single",
+  "undef":true,
+  "unused":"vars",
+  "strict":true,
+  "maxerr":100,
+  "devel":true,
+  "node":true,
+  "predef": ["-Promise"]
+}
