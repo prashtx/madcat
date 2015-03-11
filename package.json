@@ -1,6 +1,6 @@
 {
   "name": "madcat",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Print a markdown file (or stdin) to stdout as ansi-formatted text",
   "main": "index.js",
   "bin": {
