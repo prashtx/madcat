@@ -10,7 +10,8 @@
   "author": "Prashant Singh",
   "license": "BSD",
   "dependencies": {
-    "ansimd": "^0.1.0",
-    "concat-stream": "^1.4.6"
+    "concat-stream": "^1.4.6",
+    "marked": "^0.3.3",
+    "marked-terminal": "^1.2.0"
   }
 }
